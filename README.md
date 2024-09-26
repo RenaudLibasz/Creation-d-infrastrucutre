@@ -1,6 +1,5 @@
-TP Synthèse TSSR : Mise en place du SI d'une PME
-
-Ce projet vise à déployer l'infrastructure informatique d'une PME sur un seul site, en partant de zéro. Il comprend la configuration réseau avec trois sous-réseaux, l'installation de serveurs Windows avec Active Directory, et la sécurisation des données via des solutions de supervision et de sauvegarde. Un site web vitrine est également déployé et sécurisé.
+Ce projet vise à déployer l'infrastructure informatique d'une PME sur un seul site, en partant de zéro. Il comprend la configuration réseau avec trois sous-réseaux, l'installation de serveurs Windows avec Active Directory,
+et la sécurisation des données via des solutions de supervision et de sauvegarde. Un site web vitrine est également déployé et sécurisé.
 Objectifs principaux :
 
     Réseau : Création de 3 sous-réseaux (LAN Clients, LAN Serveurs, DMZ).
