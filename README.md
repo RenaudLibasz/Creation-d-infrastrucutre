@@ -6,6 +6,6 @@ Objectifs principaux :
     Serveurs : Installation de serveurs Windows 2019, mise en place d'Active Directory, gestion de domaines et PKI.
     Clients : Intégration de clients Windows dans le domaine, configuration de serveurs fichiers.
     Sécurité : Mise en place d'une supervision (Nagios, Zabbix) et de la sauvegarde automatique des données (GLPI, scripts Bash/PowerShell).
-    Web : Hébergement sécurisé d’un site web vitrine avec serveur LAMP.
+    Web : Hébergement sécurisé d’un site web vitrine avec serveur LAMP. 
 
 Ce projet met en avant la mise en place de bonnes pratiques pour un système d’information sécurisé et optimisé.
