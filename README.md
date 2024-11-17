@@ -7,5 +7,3 @@ Objectifs principaux :
     Clients : Installation de clients Debian et Windows.
     Sécurité : Mise en place d'un serveur de supervision (Nagios) et de la sauvegarde automatique des données (GLPI, scripts Bash/PowerShell).
     Web : Hébergement d’un site web vitrine avec serveur LAMP.
-
-Ce projet met en avant la mise en place de bonnes pratiques pour un système d’information sécurisé et optimisé.
